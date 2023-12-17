@@ -6,8 +6,8 @@ Software Engineer
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [alexindevs@gmail.com](mailto:alexindevs@gmail.com)
-* 🚀  I'm currently working on [My Weather](https://github.com/alexindevs/weather-app)
-* 🧠  I'm learning Go
+* 🚀  I'm currently working on [MailScribe](https://github.com/alexindevs/MailScribe)
+* 🧠  I'm learning Django and Go
 * 🤝  I'm open to collaborating on projects that solve real-life problems
 * ⚡  I want to be a CEO like Elon Musk some day 🥺
 
