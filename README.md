@@ -13,13 +13,13 @@
 
 - 👨‍💻 All my projects are available at [http://github.com/alexindevs](http://github.com/alexindevs)
 
-- 📝 I regularly write articles on [https://substack.com](https://substack.com)
+- 📝 I regularly write articles on [My blog](https://substack.com)
 
 - 💬 Ask me about **NodeJS, Typescript and OOP**
 
 - 📫 How to reach me **alexindevs@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com](https://flowcv.com)
+- 📄 Know about my experiences at [my resume](flowcv.com/resume/e7599ib12n)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
