@@ -13,7 +13,7 @@
 
 - 👨‍💻 All my projects are available at [http://github.com/alexindevs](http://github.com/alexindevs)
 
-- 📝 I regularly write articles on [My blog](https://devchronicles.substack.com)
+- 📝 I regularly write articles on [My Substack](https://devchronicles.substack.com)
 
 - 💬 Ask me about **NodeJS, Typescript and OOP**
 
