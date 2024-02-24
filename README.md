@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alexindevs" target="blank"><img src="https://img.shields.io/twitter/follow/alexindevs?logo=twitter&style=for-the-badge" alt="alexindevs" /></a> </p>
 
-- 🔭 I’m currently working on [NounRush](https://github.com/NounRush/nounrush-backend)
+- 🔭 I’m currently working on [ShareX](https://github.com/alexindevs/sharex)
 
 - 👯 I’m looking to collaborate on [Ecommert](https://github.com/alexindevs/ecommert-backend)
 
