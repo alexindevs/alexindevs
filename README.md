@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **alexindevs@gmail.com**
 
-- 📄 Know about my experiences at [my resume](flowcv.com/resume/e7599ib12n)
+- 📄 Know about my experiences at [my resume](https://flowcv.com/resume/e7599ib12n)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
