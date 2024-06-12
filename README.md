@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [NodeGen](https://github.com/alexindevs/NodeGen)
 
-- 👯 I’m looking to collaborate on [Ecommert](https://github.com/alexindevs/ecommert-backend)
+- 👯 I’m looking to collaborate on [Dorm Haven](https://github.com/alexindevs/dorm-haven)
 
 - 👨‍💻 All my projects are available at [http://github.com/alexindevs](http://github.com/alexindevs)
 
-- 📝 I regularly write articles on [My Substack](https://devchronicles.substack.com)
+- 📝 I regularly write articles on [My Substack](https://devchronicles.substack.com) and [My Dev.to Account](https://dev.to/alexindevs)
 
 - 💬 Ask me about **NodeJS, Typescript and OOP**
 
