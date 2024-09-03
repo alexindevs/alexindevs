@@ -1,9 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2024-09-02T17:10:32.441Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.4.13" etag="P-VAu5Jd01JpngLZlVw7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-09-03T00:43:23.877Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="H8WhLs3q44E6VS6X_4Qq" version="24.4.13" type="github">
   <diagram name="Page-1" id="dkh-IBf2Nq7KJzM2SW9R">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-4" target="4gR9z0uo-2lGmXDQJqET-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-4" value="How many eggs to fry?&amp;nbsp;&lt;br&gt;Store as n." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="80" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-7" target="4gR9z0uo-2lGmXDQJqET-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-7" value="Crack n eggs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-9" target="4gR9z0uo-2lGmXDQJqET-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-9" value="Beat n eggs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-11" target="4gR9z0uo-2lGmXDQJqET-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-11" value="Fry eggs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-13" target="4gR9z0uo-2lGmXDQJqET-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-13" value="Add eggs to plate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-15" target="4gR9z0uo-2lGmXDQJqET-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-15" value="Boil Water" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-17" target="4gR9z0uo-2lGmXDQJqET-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-17" value="Add hot water to cup" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-19" target="4gR9z0uo-2lGmXDQJqET-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-19" value="Add coffee powder" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-21" target="4gR9z0uo-2lGmXDQJqET-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-21" value="Stir coffee" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-23" target="4gR9z0uo-2lGmXDQJqET-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-23" target="4gR9z0uo-2lGmXDQJqET-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-23" value="Is coffee cool enough?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2140" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-25" target="4gR9z0uo-2lGmXDQJqET-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-25" value="Add ice cubes" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2300" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-27" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2220" y="88" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-33" target="4gR9z0uo-2lGmXDQJqET-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-33" value="How many slices of bread? Store as P." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4gR9z0uo-2lGmXDQJqET-35" target="4gR9z0uo-2lGmXDQJqET-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-35" value="Add P slices of bread to plate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-37" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4gR9z0uo-2lGmXDQJqET-41" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="2146" y="168" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
