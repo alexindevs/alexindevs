@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Escrew](https://github.com/alexindevs/Escrew)
 
-- 👯 I’m looking to collaborate on [Dorm Haven](https://github.com/alexindevs/dorm-haven)
+- 👯 I’m looking to collaborate on [Roomey](https://github.com/alexindevs/roomey)
 
 - 👨‍💻 All my projects are available at [http://github.com/alexindevs](http://github.com/alexindevs)
 
