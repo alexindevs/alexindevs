@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexindevs&label=Profile%20views&color=0e75b6&style=flat" alt="alexindevs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexindevs" alt="alexindevs" /></a> </p>
-
+ 
 <p align="left"> <a href="https://twitter.com/alexindevs" target="blank"><img src="https://img.shields.io/twitter/follow/alexindevs?logo=twitter&style=for-the-badge" alt="alexindevs" /></a> </p>
 
 - 🔭 I’m currently working on [Escrew](https://github.com/alexindevs/Escrew)
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [My Substack](https://devchronicles.substack.com) and [My Dev.to Account](https://dev.to/alexindevs)
 
-- 💬 Ask me about **NodeJS, Typescript and OOP**
+- 💬 Ask me about **AI MVPs, DevSecOps, and Distributed Systems**
 
 - 📫 How to reach me **alexindevs@gmail.com**
 
