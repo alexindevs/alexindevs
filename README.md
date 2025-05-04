@@ -7,9 +7,7 @@
  
 <p align="left"> <a href="https://twitter.com/alexindevs" target="blank"><img src="https://img.shields.io/twitter/follow/alexindevs?logo=twitter&style=for-the-badge" alt="alexindevs" /></a> </p>
 
-- 🔭 I’m currently working on [Escrew](https://github.com/alexindevs/Escrew)
-
-- 👯 I’m looking to collaborate on [Roomey](https://github.com/alexindevs/roomey)
+- 🔭 I’m currently working on [Infrabuddy](https://github.com/alexindevs/infrabuddy)
 
 - 👨‍💻 All my projects are available at [http://github.com/alexindevs](http://github.com/alexindevs)
 
