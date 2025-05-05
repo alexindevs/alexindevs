@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexin</h1>
-<h3 align="center">Skilled Software Engineer</h3>
+<h3 align="center">Versatile Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexindevs&label=Profile%20views&color=0e75b6&style=flat" alt="alexindevs" /> </p>
 
@@ -7,17 +7,32 @@
  
 <p align="left"> <a href="https://twitter.com/alexindevs" target="blank"><img src="https://img.shields.io/twitter/follow/alexindevs?logo=twitter&style=for-the-badge" alt="alexindevs" /></a> </p>
 
-- 🔭 I’m currently working on [Infrabuddy](https://github.com/alexindevs/infrabuddy)
 
-- 👨‍💻 All my projects are available at [http://github.com/alexindevs](http://github.com/alexindevs)
+Hi, I’m Alexin — a software engineer with experience building robust APIs, automating infrastructure, and improving developer workflows.
 
-- 📝 I regularly write articles on [My Substack](https://devchronicles.substack.com) and [My Dev.to Account](https://dev.to/alexindevs)
+My work spans from designing clean service architectures to setting up efficient CI/CD pipelines that make deployments predictable and stress-free. I enjoy working with tools like **NestJS**, **FastAPI**, **Docker**, and **AWS**, and I care deeply about writing maintainable code that performs well under load.
 
-- 💬 Ask me about **AI MVPs, DevSecOps, and Distributed Systems**
+I approach engineering with a focus on clarity, reliability, and long-term sustainability — whether I’m scaling backend services or automating deployment flows.
 
-- 📫 How to reach me **alexindevs@gmail.com**
+### 🔧 Tech Stack
+- **Languages**: TypeScript, Python, Bash
+- **Frameworks**: NestJS, FastAPI
+- **Infrastructure & Tooling**: Docker, GitHub Actions, AWS, Nginx, PM2
+- **Databases**: PostgreSQL, MongoDB, Redis
+- **Other**: Linux, CI/CD, basic Terraform, monitoring & logs
 
-- 📄 Know about my experiences at [my resume](https://flowcv.com/resume/e7599ib12n)
+### 🧩 Projects
+- **InfraBuddy** – Infrastructure scaffolding tool for modern backend stacks (Docker, GitHub Actions, Terraform, and more)
+- **Calibrt** – Smart scheduling engine for school districts to manage substitute teacher assignments
+- **RelateTime** – A personal time-request tool with a thoughtful, API-first approach
+
+### 🎯 What I Value
+- Simplicity in architecture
+- Developer-friendly infrastructure
+- Scalable, maintainable systems
+- A balance between reliability and iteration speed
+
+If you’re working on something interesting — or want to chat about backend architecture, automation, or API design — feel free to connect or reach out.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
