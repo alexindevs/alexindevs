@@ -23,8 +23,6 @@ I approach engineering with a focus on clarity, reliability, and long-term susta
 
 ### 🧩 Projects
 - **InfraBuddy** – Infrastructure scaffolding tool for modern backend stacks (Docker, GitHub Actions, Terraform, and more)
-- **Calibrt** – Smart scheduling engine for school districts to manage substitute teacher assignments
-- **RelateTime** – A personal time-request tool with a thoughtful, API-first approach
 
 ### 🎯 What I Value
 - Simplicity in architecture
