@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alexin</h1>
-<h3 align="center">Versatile Software Engineer</h3>
+<h3 align="center"> <div style="display: flex; align-items: flex-start; justify-content: center;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="45" height="45" /></div></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexindevs&label=Profile%20views&color=0e75b6&style=flat" alt="alexindevs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexindevs" alt="alexindevs" /></a> </p>
- 
 <p align="left"> <a href="https://twitter.com/alexindevs" target="blank"><img src="https://img.shields.io/twitter/follow/alexindevs?logo=twitter&style=for-the-badge" alt="alexindevs" /></a> </p>
 
 
