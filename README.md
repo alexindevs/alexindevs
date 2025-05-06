@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/alexindevs" target="blank"><img src="https://img.shields.io/twitter/follow/alexindevs?logo=twitter&style=for-the-badge" alt="alexindevs" /></a> </p>
 
 
-Hi, I’m Alexin — a software engineer with experience building robust APIs, automating infrastructure, and improving developer workflows.
+Hi, I’m Alexin. I'm a software engineer with experience building robust APIs, automating infrastructure, and improving developer workflows.
 
 My work spans from designing clean service architectures to setting up efficient CI/CD pipelines that make deployments predictable and stress-free. I enjoy working with tools like **NestJS**, **FastAPI**, **Docker**, and **AWS**, and I care deeply about writing maintainable code that performs well under load.
 
